@@ -21,8 +21,10 @@
        
        使用代理模式，可以将功能划分的更加清晰，有助于后期维护！
        
-   ProxyPatternDemo
-   ----------------
+       
+  ![代理模式](https://github.com/lwx57280/Java_Design_Patterns/blob/master/ProxyPattern/img-folder/proxy_pattern_uml_diagram.jpg)  
+ ProxyPatternDemo
+ ----------------
         /**
          * 创建一个接口。
          */
