@@ -14,10 +14,15 @@
     2、单例类必须自己创建自己的唯一实例。
     3、单例类必须给所有其他对象提供这一实例。
     
+    
     饿汉式
     懒汉式
     双重检查
-    （懒汉式，多线程时不安全）
+   （懒汉式，多线程时不安全）
+   
+  ![单例模式](https://github.com/lwx57280/Java_Design_Patterns/blob/master/SingletonPattern/img-folder/singleton_pattern_uml_diagram.jpg)
+      
+   
 
 饿汉式(线程安全)
 ------
