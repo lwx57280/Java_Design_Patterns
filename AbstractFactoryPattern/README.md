@@ -5,7 +5,7 @@
        
     提供一个创建一系列相关或相互依赖对象的接口，而无需指定它们具体的类。
     
-![抽象工厂]()
+![抽象工厂](https://github.com/lwx57280/Java_Design_Patterns/blob/master/AbstractFactoryPattern/img-folder/abstractfactory_pattern_uml_diagram.jpg)
     
             步骤1
             /**
