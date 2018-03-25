@@ -26,6 +26,7 @@
         
         注意事项：与工厂模式的区别是：建造者模式更加关注与零件装配的顺序。
         
+  ![建造者模式](https://github.com/lwx57280/Java_Design_Patterns/blob/master/BuilderPattern/img-folder/builder_pattern_uml_diagram.jpg)
         
         **步骤 1**
         
