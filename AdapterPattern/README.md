@@ -23,7 +23,12 @@
             2、由于 JAVA 至多继承一个类，所以至多只能适配一个适配者类，而且目标类必须是抽象类。
             
         使用场景：有动机地修改一个正常运行的系统的接口，这时应该考虑使用适配器模式。
-        
+        
+  
+  
+  ![适配器模式](https://github.com/lwx57280/Java_Design_Patterns/blob/master/AdapterPattern/img-folder/adapter_pattern_uml_diagram.jpg)
+      
+  
         **步骤 1**
         /**
          * 为媒体播放器和更高级的媒体播放器创建接口。
