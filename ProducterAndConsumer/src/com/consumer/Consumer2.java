@@ -23,10 +23,12 @@ public class Consumer2 implements Runnable {
                 PCData2 data = null;
                 synchronized (queue) {
                     if (queue.size() == 0) {
-                        queue.wait();
                         queue.notifyAll();
+                        queue.wait();
                     }
-                    data = queue.remove(0);
+                    if(queue.size()>0) {
+                        data = queue.remove(0);
+                    }
                 }
                 System.out.println(Thread.currentThread().getId() + " 消费了" + data.getValue() + " result: " + (data.getValue() * data.getValue()));
                 Thread.sleep(1000);
