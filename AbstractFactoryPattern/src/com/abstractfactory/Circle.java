@@ -1,4 +1,7 @@
-package com;
+package com.abstractfactory;
+
+
+import com.Shape;
 
 public class Circle implements Shape {
     @Override

@@ -1,4 +1,7 @@
-package com;
+package com.abstractfactory;
+
+
+import com.Shape;
 
 /**
  * 创建实现接口的实体类。

@@ -1,6 +1,5 @@
 package com;
 
-import com.Shape;
 import com.factory.AbstractFactory;
 import com.factory.FactoryProducer;
 

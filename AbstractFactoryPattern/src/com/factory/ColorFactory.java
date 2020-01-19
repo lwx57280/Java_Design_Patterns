@@ -1,5 +1,6 @@
 package com.factory;
 
+import prototype.Shape;
 import com.*;
 
 
