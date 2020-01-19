@@ -1,4 +1,4 @@
-package com;
+package prototype;
 
 /**
  * 创建一个实现了 Clonable 接口的抽象类。

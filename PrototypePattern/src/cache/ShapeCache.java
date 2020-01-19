@@ -1,9 +1,9 @@
 package cache;
 
-import com.Circle;
-import com.Rectangle;
-import com.Shape;
-import com.Square;
+import prototype.Circle;
+import prototype.Rectangle;
+import prototype.Shape;
+import prototype.Square;
 
 import java.util.Hashtable;
 
