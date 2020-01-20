@@ -5,9 +5,9 @@ package com.meal;
  */
 public interface Item {
 
-    public String name();
+    String name();
 
-    public Packing packing();
+    Packing packing();
 
-    public float price();
+    float price();
 }
