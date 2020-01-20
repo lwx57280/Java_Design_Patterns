@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/Java_DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DelegatePattern/delegatePattern.iml" filepath="$PROJECT_DIR$/DelegatePattern/delegatePattern.iml" />
     </modules>
   </component>
 </project>

@@ -8,7 +8,7 @@ public class Person {
 	private int age;
 	private String name;
 	//1、私有的静态属性类型自己
-	private static Person person=null;
+	private volatile static Person person=null;
 	//2、私有的构造
 	private Person() {
 	}
