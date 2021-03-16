@@ -12,6 +12,6 @@ public class ProductDao {
     public void addProduct() {
         String conn = dbConnection.getConnection();
         System.out.println("获得数据库连接");
-
+        System.out.println(conn);
     }
 }
