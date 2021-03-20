@@ -1,4 +1,4 @@
-package com.starveSingleton.lazySingleton;
+package main.java.com.starveSingleton.lazySingleton;
 /**
  * 单例模式（懒汉式，线程不安全，双重检查）正真取时才实例化
  * @author Administrator

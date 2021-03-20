@@ -1,4 +1,4 @@
-package com.starveSingleton;
+package main.java.com.starveSingleton;
 
 /**
  * 饿汉式单例,线程安全

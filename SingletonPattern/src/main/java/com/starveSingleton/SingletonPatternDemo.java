@@ -1,6 +1,6 @@
-package com.starveSingleton;
+package main.java.com.starveSingleton;
 
-import com.starveSingleton.lazySingleton.Person;
+import main.java.com.starveSingleton.lazySingleton.Person;
 
 /**
  * 从 singleton 类获取唯一的对象。
